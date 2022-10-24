@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameText" type="id" />
+    <item name="textGreeting" type="id" />
+    <item name="passText" type="id" />
+    <item name="login" type="id" />
+    <item name="forgotPass" type="id" />
+    <item name="userName" type="id" />
+    <item name="userPass" type="id" />
+</resources>

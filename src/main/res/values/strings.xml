@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">meisner_band_app</string>
+    <string name="permission_needed" />
+    <string name="ok" />
+</resources>
